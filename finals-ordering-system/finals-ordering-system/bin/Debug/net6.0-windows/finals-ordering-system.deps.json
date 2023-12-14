@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "finals-ordering-system/1.0.0": {
+        "runtime": {
+          "finals-ordering-system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "finals-ordering-system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
